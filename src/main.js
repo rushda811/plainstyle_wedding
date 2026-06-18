@@ -17,7 +17,7 @@ app.innerHTML = `
   <!-- HERO -->
  <section class="hero reveal">
 
-  <img src="/src/assets/couple.jpg" class="hero-img"/>
+  <img src="/couple.jpg" class="hero-img"/>
 
   <div class="hero-gradient"></div>
 
@@ -51,7 +51,7 @@ app.innerHTML = `
 
   <!-- GROOM -->
 <section class="profile reveal">
-  <img class="rounded" src="/src/assets/groom.jpg"/>
+  <img class="rounded" src="/groom.jpg"/>
 
   <div>
     <h2 class="title">The Groom</h2>
@@ -69,7 +69,7 @@ app.innerHTML = `
 
 <!-- BRIDE -->
 <section class="profile reverse reveal">
-  <img class="rounded" src="/src/assets/bride.jpg"/>
+  <img class="rounded" src="/bride.jpg"/>
 
   <div>
     <h2 class="title">The Bride</h2>
@@ -177,7 +177,7 @@ app.innerHTML = `
 
   <div class="venue-media">
 
-    <img src="/src/assets/venue.jpg"/>
+    <img src="/venue.jpg"/>
 
     <div class="venue-overlay">
 
